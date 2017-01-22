@@ -1,0 +1,9 @@
+[submodule "demo-by-rascal"]
+	path = demo-by-rascal
+	url = https://github.com/stayrascal/rascal-tensorflow.git
+[submodule "demo-by-gmliao"]
+	path = demo-by-gmliao
+	url = https://github.com/gmlove/num-seq-recognizer.git
+[submodule "android-demo-by-gmliao"]
+	path = android-demo-by-gmliao
+	url = https://github.com/gmlove/numseq-android.git
